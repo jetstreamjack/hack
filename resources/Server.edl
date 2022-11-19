@@ -1,0 +1,5 @@
+entity mqtt_subscriber.Server
+
+components {
+    Server : mqtt_subscriber.Ping
+}
